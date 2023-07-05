@@ -1,0 +1,7 @@
+2021-07-16 09:12:23,966 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-07-16 09:12:23,978 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-07-16 09:12:23,982 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\CurrentWork\JISL\NewSmartIrricare\Scheduling\Scheduling
+2021-07-16 09:21:28,438 [11] WARN  Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware - Failed to determine the https port for redirect.
+2021-07-16 23:59:50,821 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-07-16 23:59:50,851 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-07-16 23:59:50,865 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\CurrentWork\JISL\NewSmartIrricare\Scheduling\Scheduling

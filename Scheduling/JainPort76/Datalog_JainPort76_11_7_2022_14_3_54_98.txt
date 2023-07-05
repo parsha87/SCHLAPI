@@ -1,0 +1,505 @@
+7/11/2022 2:03:54 PM
+GatewayId : 2 Project ID : 4
+Message : T03W:Low LoRa Supply voltage 1.489561: 
+T02D: TS:-> D: 16/4/22	T: 15:23:57:BhushanPatilProduct Deve
+T02D: Send HTTP Request.
+T02D: FTP: 6 , Data_Size: 260130	B:3.612155 V, S:13.291504 V
+T02D: GPRS Connecting @@@@@@$$$$$$
+T02D: CMD:AT+QIACT?
+T02D: RSP:+QIACT: 1,1,1,"10.80.231.87"OK
+T02D: Internet Connected %%%%%&&&&&&
+T02D: CMD:AT+QHTTPCFG="requestheader",1
+T02D: RSP:OK
+T02D: CMD:AT+QHTTPURL=41,60
+T02D: RSP:CONNECT
+T02D: CMD:http://cloud.jainirricare.com:3001/Data
+T02D: CMD:
+T01D: GW_live data updated in NWT
+T02D: RSP:OK
+T05D: Log: Stored MOY: 152124, WR_SN: 452963 at: 49152392
+T02D: CMD:AT+QHTTPPOST=260242,60,50
+T02D: RSP:CONNECT
+T02D: CMD:POST /Data HTTP/1.1
+T02D: CMD:
+T02D: CMD:Host:  cloud.jainirricare.com:3001
+T02D: CMD:
+T02D: CMD:Content-Type: text/plain
+T02D: CMD:
+T02D: CMD:Content-Length:
+T02D: TS:-> D: 16/4/22	T: 15:23:57:BhushanPatilProduct Deve
+T02D: Send HTTP Request.
+T02D: FTP: 6 , Data_Size: 260130	B:3.612155 V, S:13.291504 V
+T02D: GPRS Connecting..
+T02D: CMD:AT+QIACT?
+T02D: RSP:+QIACT: 1,1,1,"10.80.231.87"OK
+T02D: Internet Connected
+T02D: CMD:AT+QHTTPCFG="requestheader",1
+T02D: RSP:OK
+T02D: CMD:AT+QHTTPURL=41,60
+T02D: RSP:CONNECT
+T02D: CMD:http://cloud.jainirricare.com:3001/Data
+T02D: CMD:
+T01D: GW_live data updated in NWT
+T02D: RSP:OK
+T05D: Log: Stored MOY: 152124, WR_SN: 452963 at: 49152392
+T02D: CMD:AT+QHTTPPOST=260242,60,50
+T02D: RSP:CONNECT
+T02D: CMD:POST /Data HTTP/1.1
+T02D: CMD:
+T02D: CMD:Host:  cloud.jainirricare.com:3001
+T02D: CMD:
+T02D: CMD:Content-Type: text/plain
+T02D: CMD:
+T02D: CMD:Content-Length:T02D: TS:-> D: 16/4/22	T: 15:23:57:BhushanPatilProduct Deve
+T02D: Send HTTP Request.
+T02D: FTP: 6 , Data_Size: 260130	B:3.612155 V, S:13.291504 V
+T02D: GPRS Connecting..
+T02D: CMD:AT+QIACT?
+T02D: RSP:+QIACT: 1,1,1,"10.80.231.87"OK
+T02D: Internet Connected
+T02D: CMD:AT+QHTTPCFG="requestheader",1
+T02D: RSP:OK
+T02D: CMD:AT+QHTTPURL=41,60
+T02D: RSP:CONNECT
+T02D: CMD:http://cloud.jainirricare.com:3001/Data
+T02D: CMD:
+T01D: GW_live data updated in NWT
+T02D: RSP:OK
+T05D: Log: Stored MOY: 152124, WR_SN: 452963 at: 49152392
+T02D: CMD:AT+QHTTPPOST=260242,60,50
+T02D: RSP:CONNECT
+T02D: CMD:POST /Data HTTP/1.1
+T02D: CMD:
+T02D: CMD:Host:  cloud.jainirricare.com:3001
+T02D: CMD:
+T02D: CMD:Content-Type: text/plain
+T02D: CMD:
+T02D: CMD:Content-Length:
+T02D: TS:-> D: 16/4/22	T: 15:23:57:BhushanPatilProduct Deve
+T02D: Send HTTP Request.
+T02D: FTP: 6 , Data_Size: 260130	B:3.612155 V, S:13.291504 V
+T02D: GPRS Connecting..
+T02D: CMD:AT+QIACT?
+T02D: RSP:+QIACT: 1,1,1,"10.80.231.87"OK
+T02D: Internet Connected
+T02D: CMD:AT+QHTTPCFG="requestheader",1
+T02D: RSP:OK
+T02D: CMD:AT+QHTTPURL=41,60
+T02D: RSP:CONNECT
+T02D: CMD:http://cloud.jainirricare.com:3001/Data
+T02D: CMD:
+T01D: GW_live data updated in NWT
+T02D: RSP:OK
+T05D: Log: Stored MOY: 152124, WR_SN: 452963 at: 49152392
+T02D: CMD:AT+QHTTPPOST=260242,60,50
+T02D: RSP:CONNECT
+T02D: CMD:POST /Data HTTP/1.1
+T02D: CMD:
+T02D: CMD:Host:  cloud.jainirricare.com:3001
+T02D: CMD:
+T02D: CMD:Content-Type: text/plain
+T02D: CMD:
+T02D: CMD:Content-Length:
+T02D: TS:-> D: 16/4/22	T: 15:23:57:BhushanPatilProduct Deve
+T02D: Send HTTP Request.
+T02D: FTP: 6 , Data_Size: 260130	B:3.612155 V, S:13.291504 V
+T02D: GPRS Connecting..
+T02D: CMD:AT+QIACT?
+T02D: RSP:+QIACT: 1,1,1,"10.80.231.87"OK
+T02D: Internet Connected
+T02D: CMD:AT+QHTTPCFG="requestheader",1
+T02D: RSP:OK
+T02D: CMD:AT+QHTTPURL=41,60
+T02D: RSP:CONNECT
+T02D: CMD:http://cloud.jainirricare.com:3001/Data
+T02D: CMD:
+T01D: GW_live data updated in NWT
+T02D: RSP:OK
+T05D: Log: Stored MOY: 152124, WR_SN: 452963 at: 49152392
+T02D: CMD:AT+QHTTPPOST=260242,60,50
+T02D: RSP:CONNECT
+T02D: CMD:POST /Data HTTP/1.1
+T02D: CMD:
+T02D: CMD:Host:  cloud.jainirricare.com:3001
+T02D: CMD:
+T02D: CMD:Content-Type: text/plain
+T02D: CMD:
+T02D: CMD:Content-Length:
+T02D: TS:-> D: 16/4/22	T: 15:23:57:BhushanPatilProduct Deve
+T02D: Send HTTP Request.
+T02D: FTP: 6 , Data_Size: 260130	B:3.612155 V, S:13.291504 V
+T02D: GPRS Connecting..
+T02D: CMD:AT+QIACT?
+T02D: RSP:+QIACT: 1,1,1,"10.80.231.87"OK
+T02D: Internet Connected
+T02D: CMD:AT+QHTTPCFG="requestheader",1
+T02D: RSP:OK
+T02D: CMD:AT+QHTTPURL=41,60
+T02D: RSP:CONNECT
+T02D: CMD:http://cloud.jainirricare.com:3001/Data
+T02D: CMD:
+T01D: GW_live data updated in NWT
+T02D: RSP:OK
+T05D: Log: Stored MOY: 152124, WR_SN: 452963 at: 49152392
+T02D: CMD:AT+QHTTPPOST=260242,60,50
+T02D: RSP:CONNECT
+T02D: CMD:POST /Data HTTP/1.1
+T02D: CMD:
+T02D: CMD:Host:  cloud.jainirricare.com:3001
+T02D: CMD:
+T02D: CMD:Content-Type: text/plain
+T02D: CMD:
+T02D: CMD:Content-Length:
+T02D: TS:-> D: 16/4/22	T: 15:23:57:BhushanPatilProduct Deve
+T02D: Send HTTP Request.
+T02D: FTP: 6 , Data_Size: 260130	B:3.612155 V, S:13.291504 V
+T02D: GPRS Connecting..
+T02D: CMD:AT+QIACT?
+T02D: RSP:+QIACT: 1,1,1,"10.80.231.87"OK
+T02D: Internet Connected
+T02D: CMD:AT+QHTTPCFG="requestheader",1
+T02D: RSP:OK
+T02D: CMD:AT+QHTTPURL=41,60
+T02D: RSP:CONNECT
+T02D: CMD:http://cloud.jainirricare.com:3001/Data
+T02D: CMD:
+T01D: GW_live data updated in NWT
+T02D: RSP:OK
+T05D: Log: Stored MOY: 152124, WR_SN: 452963 at: 49152392
+T02D: CMD:AT+QHTTPPOST=260242,60,50
+T02D: RSP:CONNECT
+T02D: CMD:POST /Data HTTP/1.1
+T02D: CMD:
+T02D: CMD:Host:  cloud.jainirricare.com:3001
+T02D: CMD:
+T02D: CMD:Content-Type: text/plain
+T02D: CMD:
+T02D: CMD:Content-Length:
+T02D: TS:-> D: 16/4/22	T: 15:23:57:BhushanPatilProduct Deve
+T02D: Send HTTP Request.
+T02D: FTP: 6 , Data_Size: 260130	B:3.612155 V, S:13.291504 V
+T02D: GPRS Connecting..
+T02D: CMD:AT+QIACT?
+T02D: RSP:+QIACT: 1,1,1,"10.80.231.87"OK
+T02D: Internet Connected
+T02D: CMD:AT+QHTTPCFG="requestheader",1
+T02D: RSP:OK
+T02D: CMD:AT+QHTTPURL=41,60
+T02D: RSP:CONNECT
+T02D: CMD:http://cloud.jainirricare.com:3001/Data
+T02D: CMD:
+T01D: GW_live data updated in NWT
+T02D: RSP:OK
+T05D: Log: Stored MOY: 152124, WR_SN: 452963 at: 49152392
+T02D: CMD:AT+QHTTPPOST=260242,60,50
+T02D: RSP:CONNECT
+T02D: CMD:POST /Data HTTP/1.1
+T02D: CMD:
+T02D: CMD:Host:  cloud.jainirricare.com:3001
+T02D: CMD:
+T02D: CMD:Content-Type: text/plain
+T02D: CMD:
+T02D: CMD:Content-Length:
+T02D: TS:-> D: 16/4/22	T: 15:23:57:BhushanPatilProduct Deve
+T02D: Send HTTP Request.
+T02D: FTP: 6 , Data_Size: 260130	B:3.612155 V, S:13.291504 V
+T02D: GPRS Connecting..
+T02D: CMD:AT+QIACT?
+T02D: RSP:+QIACT: 1,1,1,"10.80.231.87"OK
+T02D: Internet Connected
+T02D: CMD:AT+QHTTPCFG="requestheader",1
+T02D: RSP:OK
+T02D: CMD:AT+QHTTPURL=41,60
+T02D: RSP:CONNECT
+T02D: CMD:http://cloud.jainirricare.com:3001/Data
+T02D: CMD:
+T01D: GW_live data updated in NWT
+T02D: RSP:OK
+T05D: Log: Stored MOY: 152124, WR_SN: 452963 at: 49152392
+T02D: CMD:AT+QHTTPPOST=260242,60,50
+T02D: RSP:CONNECT
+T02D: CMD:POST /Data HTTP/1.1
+T02D: CMD:
+T02D: CMD:Host:  cloud.jainirricare.com:3001
+T02D: CMD:
+T02D: CMD:Content-Type: text/plain
+T02D: CMD:
+T02D: CMD:Content-Length:
+T02D: TS:-> D: 16/4/22	T: 15:23:57:BhushanPatilProduct Deve
+T02D: Send HTTP Request.
+T02D: FTP: 6 , Data_Size: 260130	B:3.612155 V, S:13.291504 V
+T02D: GPRS Connecting..
+T02D: CMD:AT+QIACT?
+T02D: RSP:+QIACT: 1,1,1,"10.80.231.87"OK
+T02D: Internet Connected
+T02D: CMD:AT+QHTTPCFG="requestheader",1
+T02D: RSP:OK
+T02D: CMD:AT+QHTTPURL=41,60
+T02D: RSP:CONNECT
+T02D: CMD:http://cloud.jainirricare.com:3001/Data
+T02D: CMD:
+T01D: GW_live data updated in NWT
+T02D: RSP:OK
+T05D: Log: Stored MOY: 152124, WR_SN: 452963 at: 49152392
+T02D: CMD:AT+QHTTPPOST=260242,60,50
+T02D: RSP:CONNECT
+T02D: CMD:POST /Data HTTP/1.1
+T02D: CMD:
+T02D: CMD:Host:  cloud.jainirricare.com:3001
+T02D: CMD:
+T02D: CMD:Content-Type: text/plain
+T02D: CMD:
+T02D: CMD:Content-Length:
+T02D: TS:-> D: 16/4/22	T: 15:23:57:BhushanPatilProduct Deve
+T02D: Send HTTP Request.
+T02D: FTP: 6 , Data_Size: 260130	B:3.612155 V, S:13.291504 V
+T02D: GPRS Connecting..
+T02D: CMD:AT+QIACT?
+T02D: RSP:+QIACT: 1,1,1,"10.80.231.87"OK
+T02D: Internet Connected
+T02D: CMD:AT+QHTTPCFG="requestheader",1
+T02D: RSP:OK
+T02D: CMD:AT+QHTTPURL=41,60
+T02D: RSP:CONNECT
+T02D: CMD:http://cloud.jainirricare.com:3001/Data
+T02D: CMD:
+T01D: GW_live data updated in NWT
+T02D: RSP:OK
+T05D: Log: Stored MOY: 152124, WR_SN: 452963 at: 49152392
+T02D: CMD:AT+QHTTPPOST=260242,60,50
+T02D: RSP:CONNECT
+T02D: CMD:POST /Data HTTP/1.1
+T02D: CMD:
+T02D: CMD:Host:  cloud.jainirricare.com:3001
+T02D: CMD:
+T02D: CMD:Content-Type: text/plain
+T02D: CMD:
+T02D: CMD:Content-Length:
+T02D: CMD:Content-Length:
+T03W:Low LoRa Supply voltage 1.489561: 
+T02D: TS:-> D: 16/4/22	T: 15:23:57:BhushanPatilProduct Deve
+T02D: Send HTTP Request.
+T02D: FTP: 6 , Data_Size: 260130	B:3.612155 V, S:13.291504 V
+T02D: GPRS Connecting @@@@@@$$$$$$
+T02D: CMD:AT+QIACT?
+T02D: RSP:+QIACT: 1,1,1,"10.80.231.87"OK
+T02D: Internet Connected %%%%%&&&&&&
+T02D: CMD:AT+QHTTPCFG="requestheader",1
+T02D: RSP:OK
+T02D: CMD:AT+QHTTPURL=41,60
+T02D: RSP:CONNECT
+T02D: CMD:http://cloud.jainirricare.com:3001/Data
+T02D: CMD:
+T01D: GW_live data updated in NWT
+T02D: RSP:OK
+T05D: Log: Stored MOY: 152124, WR_SN: 452963 at: 49152392
+T02D: CMD:AT+QHTTPPOST=260242,60,50
+T02D: RSP:CONNECT
+T02D: CMD:POST /Data HTTP/1.1
+T02D: CMD:
+T02D: CMD:Host:  cloud.jainirricare.com:3001
+T02D: CMD:
+T02D: CMD:Content-Type: text/plain
+T02D: CMD:
+T02D: CMD:Content-Length:
+T02D: TS:-> D: 16/4/22	T: 15:23:57:BhushanPatilProduct Deve
+T02D: Send HTTP Request.
+T02D: FTP: 6 , Data_Size: 260130	B:3.612155 V, S:13.291504 V
+T02D: GPRS Connecting..
+T02D: CMD:AT+QIACT?
+T02D: RSP:+QIACT: 1,1,1,"10.80.231.87"OK
+T02D: Internet Connected
+T02D: CMD:AT+QHTTPCFG="requestheader",1
+T02D: RSP:OK
+T02D: CMD:AT+QHTTPURL=41,60
+T02D: RSP:CONNECT
+T02D: CMD:http://cloud.jainirricare.com:3001/Data
+T02D: CMD:
+T01D: GW_live data updated in NWT
+T02D: RSP:OK
+T05D: Log: Stored MOY: 152124, WR_SN: 452963 at: 49152392
+T02D: CMD:AT+QHTTPPOST=260242,60,50
+T02D: RSP:CONNECT
+T02D: CMD:POST /Data HTTP/1.1
+T02D: CMD:
+T02D: CMD:Host:  cloud.jainirricare.com:3001
+T02D: CMD:
+T02D: CMD:Content-Type: text/plain
+T02D: CMD:
+T02D: CMD:Content-Length:T02D: TS:-> D: 16/4/22	T: 15:23:57:BhushanPatilProduct Deve
+T02D: Send HTTP Request.
+T02D: FTP: 6 , Data_Size: 260130	B:3.612155 V, S:13.291504 V
+T02D: GPRS Connecting..
+T02D: CMD:AT+QIACT?
+T02D: RSP:+QIACT: 1,1,1,"10.80.231.87"OK
+T02D: Internet Connected
+T02D: CMD:AT+QHTTPCFG="requestheader",1
+T02D: RSP:OK
+T02D: CMD:AT+QHTTPURL=41,60
+T02D: RSP:CONNECT
+T02D: CMD:http://cloud.jainirricare.com:3001/Data
+T02D: CMD:
+T01D: GW_live data updated in NWT
+T02D: RSP:OK
+T05D: Log: Stored MOY: 152124, WR_SN: 452963 at: 49152392
+T02D: CMD:AT+QHTTPPOST=260242,60,50
+T02D: RSP:CONNECT
+T02D: CMD:POST /Data HTTP/1.1
+T02D: CMD:
+T02D: CMD:Host:  cloud.jainirricare.com:3001
+T02D: CMD:
+T02D: CMD:Content-Type: text/plain
+T02D: CMD:
+T02D: CMD:Content-Length:
+T02D: TS:-> D: 16/4/22	T: 15:23:57:BhushanPatilProduct Deve
+T02D: Send HTTP Request.
+T02D: FTP: 6 , Data_Size: 260130	B:3.612155 V, S:13.291504 V
+T02D: GPRS Connecting..
+T02D: CMD:AT+QIACT?
+T02D: RSP:+QIACT: 1,1,1,"10.80.231.87"OK
+T02D: Internet Connected
+T02D: CMD:AT+QHTTPCFG="requestheader",1
+T02D: RSP:OK
+T02D: CMD:AT+QHTTPURL=41,60
+T02D: RSP:CONNECT
+T02D: CMD:http://cloud.jainirricare.com:3001/Data
+T02D: CMD:
+T01D: GW_live data updated in NWT
+T02D: RSP:OK
+T05D: Log: Stored MOY: 152124, WR_SN: 452963 at: 49152392
+T02D: CMD:AT+QHTTPPOST=260242,60,50
+T02D: RSP:CONNECT
+T02D: CMD:POST /Data HTTP/1.1
+T02D: CMD:
+T02D: CMD:Host:  cloud.jainirricare.com:3001
+T02D: CMD:
+T02D: CMD:Content-Type: text/plain
+T02D: CMD:
+T02D: CMD:Content-Length:
+T02D: TS:-> D: 16/4/22	T: 15:23:57:BhushanPatilProduct Deve
+T02D: Send HTTP Request.
+T02D: FTP: 6 , Data_Size: 260130	B:3.612155 V, S:13.291504 V
+T02D: GPRS Connecting..
+T02D: CMD:AT+QIACT?
+T02D: RSP:+QIACT: 1,1,1,"10.80.231.87"OK
+T02D: Internet Connected
+T02D: CMD:AT+QHTTPCFG="requestheader",1
+T02D: RSP:OK
+T02D: CMD:AT+QHTTPURL=41,60
+T02D: RSP:CONNECT
+T02D: CMD:http://cloud.jainirricare.com:3001/Data
+T02D: CMD:
+T01D: GW_live data updated in NWT
+T02D: RSP:OK
+T05D: Log: Stored MOY: 152124, WR_SN: 452963 at: 49152392
+T02D: CMD:AT+QHTTPPOST=260242,60,50
+T02D: RSP:CONNECT
+T02D: CMD:POST /Data HTTP/1.1
+T02D: CMD:
+T02D: CMD:Host:  cloud.jainirricare.com:3001
+T02D: CMD:
+T02D: CMD:Content-Type: text/plain
+T02D: CMD:
+T02D: CMD:Content-Length:
+T02D: TS:-> D: 16/4/22	T: 15:23:57:BhushanPatilProduct Deve
+T02D: Send HTTP Request.
+T02D: FTP: 6 , Data_Size: 260130	B:3.612155 V, S:13.291504 V
+T02D: GPRS Connecting..
+T02D: CMD:AT+QIACT?
+T02D: RSP:+QIACT: 1,1,1,"10.80.231.87"OK
+T02D: Internet Connected
+T02D: CMD:AT+QHTTPCFG="requestheader",1
+T02D: RSP:OK
+T02D: CMD:AT+QHTTPURL=41,60
+T02D: RSP:CONNECT
+T02D: CMD:http://cloud.jainirricare.com:3001/Data
+T02D: CMD:
+T01D: GW_live data updated in NWT
+T02D: RSP:OK
+T05D: Log: Stored MOY: 152124, WR_SN: 452963 at: 49152392
+T02D: CMD:AT+QHTTPPOST=260242,60,50
+T02D: RSP:CONNECT
+T02D: CMD:POST /Data HTTP/1.1
+T02D: CMD:
+T02D: CMD:Host:  cloud.jainirricare.com:3001
+T02D: CMD:
+T02D: CMD:Content-Type: text/plain
+T02D: CMD:
+T02D: CMD:Content-Length:
+T02D: TS:-> D: 16/4/22	T: 15:23:57:BhushanPatilProduct Deve
+T02D: Send HTTP Request.
+T02D: FTP: 6 , Data_Size: 260130	B:3.612155 V, S:13.291504 V
+T02D: GPRS Connecting..
+T02D: CMD:AT+QIACT?
+T02D: RSP:+QIACT: 1,1,1,"10.80.231.87"OK
+T02D: Internet Connected
+T02D: CMD:AT+QHTTPCFG="requestheader",1
+T02D: RSP:OK
+T02D: CMD:AT+QHTTPURL=41,60
+T02D: RSP:CONNECT
+T02D: CMD:http://cloud.jainirricare.com:3001/Data
+T02D: CMD:
+T01D: GW_live data updated in NWT
+T02D: RSP:OK
+T05D: Log: Stored MOY: 152124, WR_SN: 452963 at: 49152392
+T02D: CMD:AT+QHTTPPOST=260242,60,50
+T02D: RSP:CONNECT
+T02D: CMD:POST /Data HTTP/1.1
+T02D: CMD:
+T02D: CMD:Host:  cloud.jainirricare.com:3001
+T02D: CMD:
+T02D: CMD:Content-Type: text/plain
+T02D: CMD:
+T02D: CMD:Content-Length:
+T02D: TS:-> D: 16/4/22	T: 15:23:57:BhushanPatilProduct Deve
+T02D: Send HTTP Request.
+T02D: FTP: 6 , Data_Size: 260130	B:3.612155 V, S:13.291504 V
+T02D: GPRS Connecting..
+T02D: CMD:AT+QIACT?
+T02D: RSP:+QIACT: 1,1,1,"10.80.231.87"OK
+T02D: Internet Connected
+T02D: CMD:AT+QHTTPCFG="requestheader",1
+T02D: RSP:OK
+T02D: CMD:AT+QHTTPURL=41,60
+T02D: RSP:CONNECT
+T02D: CMD:http://cloud.jainirricare.com:3001/Data
+T02D: CMD:
+T01D: GW_live data updated in NWT
+T02D: RSP:OK
+T05D: Log: Stored MOY: 152124, WR_SN: 452963 at: 49152392
+T02D: CMD:AT+QHTTPPOST=260242,60,50
+T02D: RSP:CONNECT
+T02D: CMD:POST /Data HTTP/1.1
+T02D: CMD:
+T02D: CMD:Host:  cloud.jainirricare.com:3001
+T02D: CMD:
+T02D: CMD:Content-Type: text/plain
+T02D: CMD:
+T02D: CMD:Content-Length:
+T02D: TS:-> D: 16/4/22	T: 15:23:57:BhushanPatilProduct Deve
+T02D: Send HTTP Request.
+T02D: FTP: 6 , Data_Size: 260130	B:3.612155 V, S:13.291504 V
+T02D: GPRS Connecting..
+T02D: CMD:AT+QIACT?
+T02D: RSP:+QIACT: 1,1,1,"10.80.231.87"OK
+T02D: Internet Connected
+T02D: CMD:AT+QHTTPCFG="requestheader",1
+T02D: RSP:OK
+T02D: CMD:AT+QHTTPURL=41,60
+T02D: RSP:CONNECT
+T02D: CMD:http://cloud.jainirricare.com:3001/Data
+T02D: CMD:
+T01D: GW_live data updated in NWT
+T02D: RSP:OK
+T05D: Log: Stored MOY: 152124, WR_SN: 452963 at: 49152392
+T02D: CMD:AT+QHTTPPOST=260242,60,50
+T02D: RSP:CONNECT
+T02D: CMD:POST /Data HTTP/1.1
+T02D: CMD:
+T02D: CMD:Host:  cloud.jainirricare.com:3001
+T02D: CMD:
+T02D: CMD:Content-Type: text/plain
+T02D: CMD:
+T02D: CMD:Content-Length:
+T02D: TS:-> D: 16/4/22	T: 15:23:57:BhushanPatilProduct Deve
+__________________________________________________________________________________________________

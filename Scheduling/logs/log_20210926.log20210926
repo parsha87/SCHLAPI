@@ -1,0 +1,68 @@
+2021-09-26 15:45:47,498 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-09-26 15:45:47,526 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-09-26 15:45:47,529 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\CurrentWork\JISL\NewSmartIrricare\Scheduling\Scheduling
+2021-09-26 15:46:55,479 [10] WARN  Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware - Failed to determine the https port for redirect.
+2021-09-26 16:40:21,368 [19] INFO  Scheduling.Services.UploadService - Project_Configuration
+2021-09-26 16:40:21,660 [19] INFO  Scheduling.Services.UploadService - Rechargable Node
+2021-09-26 16:40:22,337 [40] INFO  Scheduling.Services.UploadService - Non-Rechargable_Node
+2021-09-26 16:40:22,378 [40] INFO  Scheduling.Services.UploadService - GW-GW as Node
+2021-09-26 16:40:22,593 [40] INFO  Scheduling.Services.UploadService - Analog 4_20mA Sensor
+2021-09-26 16:40:22,600 [40] INFO  Scheduling.Services.UploadService - Analog 0_5V Sensor
+2021-09-26 16:40:22,608 [40] INFO  Scheduling.Services.UploadService - Digital NO_NC Type Sensor
+2021-09-26 16:40:22,614 [40] INFO  Scheduling.Services.UploadService - Digital Counter Type Sensor
+2021-09-26 16:40:22,623 [40] INFO  Scheduling.Services.UploadService - Water Meter Sensor
+2021-09-26 16:40:22,631 [40] INFO  Scheduling.Services.UploadService - VRT
+2021-09-26 16:41:22,702 [38] INFO  Scheduling.Services.UploadService - Project_Configuration
+2021-09-26 16:41:22,840 [38] INFO  Scheduling.Services.UploadService - Rechargable Node
+2021-09-26 16:41:23,098 [38] INFO  Scheduling.Services.UploadService - Non-Rechargable_Node
+2021-09-26 16:41:23,169 [38] INFO  Scheduling.Services.UploadService - GW-GW as Node
+2021-09-26 16:41:23,428 [38] INFO  Scheduling.Services.UploadService - Analog 4_20mA Sensor
+2021-09-26 16:41:23,439 [38] INFO  Scheduling.Services.UploadService - Analog 0_5V Sensor
+2021-09-26 16:41:23,449 [38] INFO  Scheduling.Services.UploadService - Digital NO_NC Type Sensor
+2021-09-26 16:41:23,459 [38] INFO  Scheduling.Services.UploadService - Digital Counter Type Sensor
+2021-09-26 16:41:23,468 [38] INFO  Scheduling.Services.UploadService - Water Meter Sensor
+2021-09-26 16:41:23,479 [38] INFO  Scheduling.Services.UploadService - VRT
+2021-09-26 16:42:40,563 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2021-09-26 16:42:40,595 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2021-09-26 16:42:40,599 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\CurrentWork\JISL\NewSmartIrricare\Scheduling\Scheduling
+2021-09-26 16:42:56,233 [4] WARN  Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware - Failed to determine the https port for redirect.
+2021-09-26 16:42:58,975 [14] INFO  Scheduling.Services.UploadService - Project_Configuration
+2021-09-26 16:43:04,797 [14] INFO  Scheduling.Services.UploadService - Rechargable Node
+2021-09-26 16:43:06,127 [14] INFO  Scheduling.Services.UploadService - Non-Rechargable_Node
+2021-09-26 16:43:06,237 [14] INFO  Scheduling.Services.UploadService - GW-GW as Node
+2021-09-26 16:43:06,765 [14] INFO  Scheduling.Services.UploadService - Analog 4_20mA Sensor
+2021-09-26 16:43:06,876 [14] INFO  Scheduling.Services.UploadService - Analog 0_5V Sensor
+2021-09-26 16:43:06,888 [14] INFO  Scheduling.Services.UploadService - Digital NO_NC Type Sensor
+2021-09-26 16:43:06,900 [14] INFO  Scheduling.Services.UploadService - Digital Counter Type Sensor
+2021-09-26 16:43:06,912 [14] INFO  Scheduling.Services.UploadService - Water Meter Sensor
+2021-09-26 16:43:06,923 [14] INFO  Scheduling.Services.UploadService - VRT
+2021-09-26 16:44:17,962 [29] INFO  Scheduling.Services.UploadService - Project_Configuration
+2021-09-26 16:44:18,218 [29] INFO  Scheduling.Services.UploadService - Rechargable Node
+2021-09-26 16:44:18,575 [31] INFO  Scheduling.Services.UploadService - Non-Rechargable_Node
+2021-09-26 16:44:18,621 [31] INFO  Scheduling.Services.UploadService - GW-GW as Node
+2021-09-26 16:44:18,863 [31] INFO  Scheduling.Services.UploadService - Analog 4_20mA Sensor
+2021-09-26 16:44:18,878 [31] INFO  Scheduling.Services.UploadService - Analog 0_5V Sensor
+2021-09-26 16:44:18,890 [31] INFO  Scheduling.Services.UploadService - Digital NO_NC Type Sensor
+2021-09-26 16:44:18,904 [31] INFO  Scheduling.Services.UploadService - Digital Counter Type Sensor
+2021-09-26 16:44:18,913 [31] INFO  Scheduling.Services.UploadService - Water Meter Sensor
+2021-09-26 16:44:18,925 [31] INFO  Scheduling.Services.UploadService - VRT
+2021-09-26 23:34:46,486 [42] INFO  Scheduling.Services.UploadService - Project_Configuration
+2021-09-26 23:34:46,697 [42] INFO  Scheduling.Services.UploadService - Rechargable Node
+2021-09-26 23:34:47,682 [47] INFO  Scheduling.Services.UploadService - Non-Rechargable_Node
+2021-09-26 23:34:47,702 [47] INFO  Scheduling.Services.UploadService - GW-GW as Node
+2021-09-26 23:34:47,776 [47] INFO  Scheduling.Services.UploadService - Analog 4_20mA Sensor
+2021-09-26 23:34:47,781 [47] INFO  Scheduling.Services.UploadService - Analog 0_5V Sensor
+2021-09-26 23:34:47,784 [47] INFO  Scheduling.Services.UploadService - Digital NO_NC Type Sensor
+2021-09-26 23:34:47,787 [47] INFO  Scheduling.Services.UploadService - Digital Counter Type Sensor
+2021-09-26 23:34:47,790 [47] INFO  Scheduling.Services.UploadService - Water Meter Sensor
+2021-09-26 23:34:47,794 [47] INFO  Scheduling.Services.UploadService - VRT
+2021-09-26 23:40:57,001 [57] INFO  Scheduling.Services.UploadService - Project_Configuration
+2021-09-26 23:40:57,375 [57] INFO  Scheduling.Services.UploadService - Rechargable Node
+2021-09-26 23:41:10,991 [62] INFO  Scheduling.Services.UploadService - Non-Rechargable_Node
+2021-09-26 23:41:11,019 [62] INFO  Scheduling.Services.UploadService - GW-GW as Node
+2021-09-26 23:41:11,090 [62] INFO  Scheduling.Services.UploadService - Analog 4_20mA Sensor
+2021-09-26 23:41:11,093 [62] INFO  Scheduling.Services.UploadService - Analog 0_5V Sensor
+2021-09-26 23:41:11,096 [62] INFO  Scheduling.Services.UploadService - Digital NO_NC Type Sensor
+2021-09-26 23:41:11,099 [62] INFO  Scheduling.Services.UploadService - Digital Counter Type Sensor
+2021-09-26 23:41:11,102 [62] INFO  Scheduling.Services.UploadService - Water Meter Sensor
+2021-09-26 23:41:11,105 [62] INFO  Scheduling.Services.UploadService - VRT
