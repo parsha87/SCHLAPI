@@ -199,7 +199,7 @@ namespace Scheduling.Controllers
 
                 List<MultiNodeDashbordData> proList = await _projectService.GetMultiNodeLatLong();
                 return proList;
-            }
+            } 
             catch (Exception ex)
             {
                 _logger.LogError($"[{nameof(ProjectController)}.{nameof(GetMultiNetworkRtu)}]{ex}");
