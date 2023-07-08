@@ -21,7 +21,7 @@ namespace Scheduling.Data.Entities
         public int? CurrentStateReason { get; set; }
         [Column("OperationTImeMOY")]
         [StringLength(500)]
-        public string OperationTimeMoy { get; set; }
+        public DateTime? OperationTimeMoy { get; set; }
         public int? ActiveCurrent { get; set; }
         [Column(TypeName = "datetime")]
         public DateTime? AddedDateTime { get; set; }

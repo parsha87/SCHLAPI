@@ -30,7 +30,7 @@
         public string TagNamePumpGroup { get; set; }
         public string TagNameMasterNode { get; set; }
         public int ValveStatus { get; set; }
-
+        public int ValveReason { get; set; }
         public decimal? Latitude { get; set; }
         public decimal? Longitude { get; set; }
     }

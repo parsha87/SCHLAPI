@@ -2616,7 +2616,7 @@ namespace Scheduling.Services
                         multiNodeJoinDataFrame.Gwno4 = HexToDecimal(ChangeHexOrder(item.Substring(43, 2)));
                         multiNodeJoinDataFrame.Latitude = Convert.ToDecimal(HextoFloat(ChangeHexOrder(item.Substring(45, 8))));
                         multiNodeJoinDataFrame.Longitude = Convert.ToDecimal(HextoFloat(ChangeHexOrder(item.Substring(53, 8))));//  HexToDecimal(ChangeHexOrder(item.Substring(53, 8)));
-                        multiNodeJoinDataFrame.Moy = ConvertMOYToDateTime(HexToDecimal(ChangeHexOrder(item.Substring(61, 8))));
+                        multiNodeJoinDataFrame.Moy = ConvertMOYToDateTime(HexToDecimal(ChangeHexOrder(item.Substring(61, 8)))).ToString();
                         multiNodeJoinDataFrame.Gwmoy = HexToDecimal(ChangeHexOrder(item.Substring(61, 8)));
                         multiNodeJoinDataFrame.Seconds = HexToDecimal(ChangeHexOrder(item.Substring(69, 2)));
                         multiNodeJoinDataFrame.Time = HexToDecimal(ChangeHexOrder(item.Substring(71, 2)));
@@ -2773,7 +2773,7 @@ namespace Scheduling.Services
                             multiValveAlarmData.CurrentState = HexToDecimal(ChangeHexOrder(item.Substring(31, 2)));
                             multiValveAlarmData.CstateReason = HexToDecimal(ChangeHexOrder(item.Substring(33, 2)));
                             multiValveAlarmData.AlarmReason = HexToDecimal(ChangeHexOrder(item.Substring(35, 2)));
-                            multiValveAlarmData.UpdateTime = ConvertMOYToDateTime(HexToDecimal(ChangeHexOrder(item.Substring(37, 8))));
+                            multiValveAlarmData.UpdateTime = ConvertMOYToDateTime(HexToDecimal(ChangeHexOrder(item.Substring(37, 8)))).ToString();
                             multiValveAlarmData.Gwmoy = HexToDecimal(ChangeHexOrder(item.Substring(37, 8)));
                             multiValveAlarmData.AcvcurrentConsimption = HexToDecimal(ChangeHexOrder(item.Substring(45, 8)));
                             multiValveAlarmData.AddedDateTime = DateTime.Now;
@@ -2998,7 +2998,7 @@ namespace Scheduling.Services
         /// </summary>
         /// <param name="MOY"></param>
         /// <returns></returns>
-        public string ConvertMOYToDateTime(int MOY)
+        public DateTime ConvertMOYToDateTime(int MOY)
         {
             string datetime = "";
             //subtract the epoch start time from current time
@@ -3015,8 +3015,9 @@ namespace Scheduling.Services
             DateTimeOffset dateTimeOffset = DateTimeOffset.FromUnixTimeSeconds(epocSec);
 
             DateTime dTime = dateTimeOffset.DateTime;
-
-            return dTime.ToString();
+            
+            return dTime;
+           // return dTime.ToString();
         }
         /// <summary>
         /// HextoFloat

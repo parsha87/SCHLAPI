@@ -107,8 +107,8 @@ namespace Scheduling.Services
                 var WaterMeterSensorSettingList = _mainDBContext.WaterMeterSensorSetting.AsQueryable().ToList();
                 var VrtList = _mainDBContext.Vrtsetting.AsQueryable().ToList();
                 List<VrtsettingViewModel> vrtsettingViewModels = _mapper.Map<List<VrtsettingViewModel>>(VrtList);
-                List<MultiValveEvent> valveevents = _mainDBContext.MultiValveEvent.Where(x => x.AddedDateTime >= DateTime.Now.AddHours(-12)).OrderByDescending(x => x.AddedDateTime).AsQueryable().ToList();
-                List<MultiSensorEvent> sensorAlarmData = _mainDBContext.MultiSensorEvent.Where(x => x.AddedDateTime >= DateTime.Now.AddHours(-12)).OrderByDescending(x => x.AddedDateTime).AsQueryable().ToList();
+                List<MultiValveEvent> valveevents = _mainDBContext.MultiValveEvent.Where(x => x.OperationTimeMoy.Value.Date == DateTime.Now.Date).OrderByDescending(x => x.AddedDateTime).AsQueryable().ToList();
+                List<MultiSensorEvent> sensorAlarmData = _mainDBContext.MultiSensorEvent.Where(x => x.AddedDateTime.Value.Date == DateTime.Now.Date).OrderByDescending(x => x.AddedDateTime).AsQueryable().ToList();
                 List<MultiLatLongValveSensor> multiLatLongValveSensors = new List<MultiLatLongValveSensor>();
                 vrtsettingViewModels.ForEach(async item =>
                 {
@@ -120,11 +120,14 @@ namespace Scheduling.Services
                     if (state == null)
                     {
                         item.ValveStatus = 4;
+                        item.ValveReason = 0;
                     }
                     else
                     {
                         item.ValveStatus = (int)state.CurrentState;
+                        item.ValveReason = (int)state.CurrentStateReason;
                     }
+                    
                 });
 
                 MultiNodeLatLongLst.ForEach(async item =>
